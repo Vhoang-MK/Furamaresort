@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/controller/Main.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/IBookingService.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/utils/Utils.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/repository/EmployeeRepository.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/model/Booking.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/model/House.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/model/Facility.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/model/Employee.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/data/NewClass.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/IFacilityService.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/repository/CustomerRepository.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/model/Room.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/IEmployeeService.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/BookingService.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/CustomerService.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/repository/FacilityRepository.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/IPromotionService.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/Service.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/model/Person.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/controller/FuramaController.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/PromotionService.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/model/Villa.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/view/Menu.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/ICustomerService.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/EmployeeService.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/repository/Repository.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/model/Customer.java</file>
+            <file>file:/C:/Users/Vo%20Hoang/Documents/2025-01-18T10_00_27.715Z_furuma2/Furama/src/service/FacilityService.java</file>
+        </group>
+    </open-files>
+</project-private>
